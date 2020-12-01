@@ -1,0 +1,20 @@
+[
+    {
+        "noms" : "Alain Boin",
+        "age": 30,
+        "sexe": "M",
+        "salaire": "30.000$"
+    },
+    {
+        "noms" : "Musole Louis",
+        "age": 45,
+        "sexe": "M",
+        "salaire": "70.000$"
+    },
+    {
+        "noms" : "Blaise Bisimwa",
+        "age": 20,
+        "sexe": "M",
+        "salaire": "10.000$"
+    }
+]

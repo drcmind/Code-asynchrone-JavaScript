@@ -1,0 +1,20 @@
+[
+    {
+        "noms" : "Jonathan Bisimwa",
+        "age": 30,
+        "sexe": "M",
+        "salaire": "100.000$"
+    },
+    {
+        "noms" : "Emmanuel Fion",
+        "age": 18,
+        "sexe": "M",
+        "salaire": "120.000$"
+    },
+    {
+        "noms" : "Clarisse Gallagher",
+        "age": 27,
+        "sexe": "F",
+        "salaire": "150.000$"
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "noms" : "Gloria Tantine",
+        "age": 35,
+        "sexe": "F",
+        "salaire": "60.000$"
+    },
+    {
+        "noms" : "Eric Thomas",
+        "age": 45,
+        "sexe": "M",
+        "salaire": "80.000$"
+    },
+    {
+        "noms" : "Blaise Pascal",
+        "age": 50,
+        "sexe": "M",
+        "salaire": "100.000$"
+    }
+]
